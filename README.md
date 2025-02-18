@@ -14,7 +14,7 @@ During my work on the parenteral medication recognition system, I developed expe
 - Deep learning models for drug identification
 - Quality analysis methodologies for pharmaceutical imaging
 
-Bullet points of accomplishments or personal qualities to highlight:
+Notable accomplishments:
 - The privilege to develop and lead AI workshops at SUTD AI Interest Group, growing from 10 to 400+ members in 2 months, demonstrates my ability to communicate complex technical concepts and build collaborative communities
 - My background in GCE A-Level H2 Biology and ACE Physical Trainer certification provides a strong foundation in understanding biological systems, which complements my computational expertise
 - My work on the computer vision-based medication detection system showcases my ability to apply computational methods to real-world pharmaceutical challenges
