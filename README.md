@@ -20,7 +20,7 @@ Bullet points of accomplishments or personal qualities to highlight:
 - My work on the computer vision-based medication detection system showcases my ability to apply computational methods to real-world pharmaceutical challenges
 - As a Teaching Assistant for Computational Design Thinking, I've demonstrated my ability to break down complex computational problems and communicate solutions effectively
 
-I am particularly interested in combining my programming expertise (Python, JavaScript, C#) with biological knowledge to develop novel computational approaches for drug discovery. My experience in image preprocessing and machine learning, particularly demonstrated in my GitHub project (github.com/dnoma/parenteral), shows my capability to handle complex computational challenges in pharmaceutical applications.
+I am particularly interested in combining my programming expertise (Python, JavaScript, C#) with biological knowledge to develop novel computational approaches for drug discovery. My experience in image preprocessing and machine learning, particularly demonstrated in my [GitHub project](https://github.com/dnoma/parenteral), shows my capability to handle complex computational challenges in pharmaceutical applications.
 
 My independent research on Computational Drug Development for Membrane Protein Targets has given me valuable insights into the intersection of computational methods and biological systems. This work, combined with my practical experience in developing AI systems for pharmaceutical applications, has prepared me well for advancing research in computational drug discovery.
 
